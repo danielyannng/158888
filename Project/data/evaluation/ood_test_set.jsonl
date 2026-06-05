@@ -1,0 +1,120 @@
+{"text": "今早人民广场那边出了点问题，等了半个多小时一辆车都没来，气死人了", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "徐家汇方向早上九点左右停运了一小会儿，搞得很多人迟到", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "陆家嘴那班车搞了个突然暂停，站台上全是人", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "中山公园站今天发车间隔好像拉长了，体验很差", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京东路站上下班高峰完全走不动，被人群推着走的感觉好不安全", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "世纪大道换乘通道人山人海，连扶梯都排到站台了", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "莘庄站早高峰连站台都站不下了，根本进不去", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "虹桥那边的换乘通道每天早上都是人堵人，受不了", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "海伦路站的洗手间闻起来好难受，好几天没打扫的样子", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "四平路那站座椅上有不明液体，也没有工作人员来处理", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "豫园站进站口旁边堆了一堆纸箱垃圾，影响通行", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "曹杨路站车厢地板黏黏的，非常影响乘车体验", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海南站站台边缘没有防护隔离带，高峰期很容易出事", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "静安寺站滚梯边上的区域人贴人，稍微一推就可能摔跤", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "浦东机场站进站闸机坏了好几个，人挤在一起非常乱", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "龙阳路转乘区域太暗，感觉踩空台阶风险很高", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京西路站旁边在施工，锤声和钻声隔着墙都传进来，吵得没法打电话", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海火车站每个月广播都要重复播报四五次，音量高到刺耳", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "漕宝路站的大喇叭声音太响，站在旁边说话都听不见对方", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "汉中路那站旁边有个鼓风机在转，嗡嗡声一直不停", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "中山公园站的无障碍电梯又停了，需要轮椅的乘客完全下不去", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场换乘通道没有给残障人士的引导线，方向指示也不清楚", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "江苏路站残疾人坡道被共享单车堵死了，根本过不去", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "打浦桥站出口楼梯太陡，推婴儿车根本没办法走", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场站今天班次特别准，提前两分钟就到了，很满意", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "陆家嘴今天早高峰出奇顺畅，一路没停过", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "世纪大道换乘区域今天乘客明显少了很多，走起来很顺", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京东路站今天人流控制得挺好的，没什么拥堵感", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "四平路站整体环境挺整洁的，今天走过去感觉很舒服", "category": "Cleanliness", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "静安寺站最近打扫得不错，座椅和地面都很干净", "category": "Cleanliness", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海南站的安全广播和引导做得很好，感觉工作人员很专业", "category": "Safety", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "曹杨路站秩序管理挺好的，高峰期没有出现推搡", "category": "Safety", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "漕宝路站今天比以前安静多了，明显没有施工声", "category": "Noise", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "汉中路站播报声音适中，听得清楚也不觉得吵", "category": "Noise", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "打浦桥站无障碍设施用起来很顺手，轮椅走起来完全没问题", "category": "Accessibility", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "江苏路站出口新装了电梯，终于方便了很多", "category": "Accessibility", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "今天路过了一下徐家汇，正常换乘，没什么特别", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "陆家嘴附近的地铁站客流量感觉和往常差不多", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "我在世纪大道站等人，花了大概十分钟", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场换乘通道今天来往的乘客挺多的", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海火车站今天有些活动，感觉人比平时稍微多一些", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京东路站有工作人员在引导乘客", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场站完点太严重了，上班要迟到了", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "徐家汇站等了好久还是没车，怀疑是不是停运了", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "synonym"}
+{"text": "陆家嘴站人太塞了😤，早高峰根本挤不上去", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "中山公园站廣播太響了，耳朵受不了", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "南京东路站厕所味道扑鼻而来，非常不舒服", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "synonym"}
+{"text": "豫园站出口那边有人摔了一跤，台阶太滑了😨", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "上海火车站升降梯一直修，根本没法用，去哪找无障碍通道啊", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "synonym"}
+{"text": "虹桥火车站人堆堆的，一人贴一人走", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "漕宝路站装修噪音超大🔊，上班族表示受不了", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "静安寺站扶手扶梯昨天停了，老人家下楼很不方便", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "synonym"}
+{"text": "今天在陆家嘴站换乘，客流量感觉比上周低，整体还好", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场今天人多但秩序保持得不错，没有发生推挤", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京西路站今天的清洁工来得很早，打扫得很干净", "category": "Cleanliness", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "世纪大道站的广播音量今天好像调低了，感觉舒服多了", "category": "Noise", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海南站的坡道新铺了防滑垫，推婴儿车好走多了", "category": "Accessibility", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "中山公园站今天早高峰居然没有晚点，难得👍", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "龙阳路站的站台今天安排了额外安保，人群秩序挺好", "category": "Safety", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "莘庄站今天人流控制得很好，进站有序没有推人现象", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "徐家汇地铁站整体上没啥好抱怨的，今天还行", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场站客流比平时多，但服务还是正常水平", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "中山公园今天有几辆车进站，乘客正常上下，没发现问题", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "陆家嘴站到站时刻表今天执行得还比较到位", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "打浦桥站今天整体感觉还算正常，没有什么特别的投诉", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "江苏路站里今天有广播在说施工提醒，但没有影响到我的通行", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "海伦路站好多人排队候车，不过还是有序的，没出现混乱", "category": "Crowding", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "汉中路站服务窗口今天有工作人员值守，问了一下路还是回答了", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "曹杨路今天正常发车，没有延误，时间刚好", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "浦东机场站人多但并没有很挤，出行体验还行", "category": "Crowding", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "漕宝路站正在维修一台扶梯，不过旁边的电梯还能用", "category": "Accessibility", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "四平路站有轻微施工声，但不是特别响，能接受范围内", "category": "Noise", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海火车站大厅里今天有一股不知道是什么的气味，不好闻但也不算特别难受", "category": "Cleanliness", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "龙阳路附近的地铁站台今天秩序感觉一般，但没有明显危险", "category": "Safety", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场站今天人多，晚了两三分钟，可以接受吧", "category": "Delay", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "徐家汇站的指示牌挺清晰的，但车厢里灯光有点昏暗", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场今天人很多但没有完点", "category": "Delay", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "中山公园早高峰人挺多，不过好像比昨天少一些😐", "category": "Crowding", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "豫园站今天有一台广播音量忽大忽小，断断续续的", "category": "Noise", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Century Avenue station had a 15-min delay this morning, passengers were frustrated", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "People's Square was incredibly crowded at 8am, took three trains to board", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Lujiazui felt really dirty today — garbage near the exit and a bad smell", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Xujiahui escalator had a sudden stop, nearly caused a fall", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Longyang Road is doing construction nearby — unbearably loud even on the platform", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "The elevator at Pudong airport station was out of order — had to carry my suitcase up the stairs", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Trains at Jing'an Temple were on time all morning, very smooth commute", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Shanghainan station was surprisingly quiet for a Friday morning", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Hailun Road station smells clean, floor was recently mopped", "category": "Cleanliness", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Century Avenue had good crowd management today — staff directing passengers", "category": "Safety", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Caobao Road station was remarkably quiet during my commute", "category": "Noise", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "The ramp at Dapu Bridge station is smooth and wide — very wheelchair-friendly", "category": "Accessibility", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Normal commute at Xujiahui today, nothing to report", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Passed through Lujiazui — usual passenger load, nothing unusual", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Longyang Rd station had moderate traffic this afternoon", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "People's Square was crowded but organised, no chaos despite the numbers", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Jing'an Temple platform was calm and well-maintained today", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Century Ave had a short delay — 4 mins — nothing too serious", "category": "Delay", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Xujiahui exit B smelled slightly stale but nothing alarming", "category": "Cleanliness", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Lujiazui platform had some noise from announcement system but manageable", "category": "Noise", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Caobao Road elevator was slow but working", "category": "Accessibility", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "Shanghainan station — staff checked my bag without any issue", "category": "Safety", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "People's Square is so crowded😱 can't even breathe", "category": "Crowding", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "Longyang Rd — delayed AGAIN 😡 every single morning", "category": "Delay", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "Hailun Road smells absolutely awful, like trash+sweat combo 🤢", "category": "Cleanliness", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "emoji"}
+{"text": "Jing'an Temple — evelator broke again, third time this month", "category": "Accessibility", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "Caobao Rd was so noissy I couldn't hear the announcement", "category": "Noise", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "Xujiahui felt danjerous during the evening rush — near fall on escalator", "category": "Safety", "sentiment": "negative", "source": "hand-labelled-ood", "perturbation": "typo"}
+{"text": "陆家嘴今天正常运营，客流量属于日常水平", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "上海南站有工作人员维护秩序，工作态度还不错", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "南京西路站今天一切正常，没有任何投诉", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "浦东机场站的电子站牌今天显示有些问题，不过不影响乘坐", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "汉中路站今天有一个乘客投诉被工作人员及时处理了", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "人民广场今天的人流量比预期稍多，但各项服务均正常", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "莘庄站电梯修好了，终于可以正常用了，方便多了", "category": "Accessibility", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "静安寺站今天很安静，没有噪音，非常舒适的等车环境", "category": "Noise", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "豫园站今天秩序井然，没有看到任何危险情况", "category": "Safety", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "曹杨路站地面非常干净，刚做完清洁的感觉", "category": "Cleanliness", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "龙阳路站今天发车非常准时，比以往要好很多", "category": "Delay", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "世纪大道今天换乘人少，走得很流畅，体验很好", "category": "Crowding", "sentiment": "positive", "source": "hand-labelled-ood", "perturbation": "none"}
+{"text": "海伦路站今天一切正常，乘客有序进出", "category": "Other", "sentiment": "neutral", "source": "hand-labelled-ood", "perturbation": "none"}

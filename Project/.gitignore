@@ -1,0 +1,20 @@
+# Raw / cached datasets (can be large)
+data/raw/
+
+# Compiled Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.venv/
+venv/

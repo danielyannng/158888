@@ -1,0 +1,65 @@
+{
+  "database_records": 420,
+  "dbscan_summary": {
+    "n_clusters": 4,
+    "n_noise": 11,
+    "eps_km": 1.5,
+    "min_samples": 2,
+    "category_filter": "all"
+  },
+  "moran": {
+    "i": -0.103,
+    "p": 0.8414,
+    "z": -0.2001,
+    "interpretation": "no significant spatial autocorrelation detected"
+  },
+  "district_comparison": [
+    {
+      "district": "Huangpu",
+      "label": "黄浦区",
+      "station_count": 6,
+      "total_feedback": 90,
+      "positive": 17,
+      "neutral": 13,
+      "negative": 60,
+      "neg_rate": 0.667,
+      "chi2_statistic": 2.0067,
+      "chi2_p_value": 0.3667,
+      "chi2_significant": false
+    },
+    {
+      "district": "Hongkou",
+      "label": "虹口区",
+      "station_count": 2,
+      "total_feedback": 30,
+      "positive": 6,
+      "neutral": 4,
+      "negative": 20,
+      "neg_rate": 0.667,
+      "chi2_statistic": 2.0067,
+      "chi2_p_value": 0.3667,
+      "chi2_significant": false
+    },
+    {
+      "district": "Pudong",
+      "label": "浦东新区",
+      "station_count": 2,
+      "total_feedback": 30,
+      "positive": 2,
+      "neutral": 4,
+      "negative": 24,
+      "neg_rate": 0.8,
+      "chi2_statistic": 2.0067,
+      "chi2_p_value": 0.3667,
+      "chi2_significant": false
+    }
+  ],
+  "outputs": {
+    "clusters_geojson": "/Users/danielyang/Study/158888/Project/data/evaluation/spatial_clusters.geojson",
+    "clusters_by_category": "/Users/danielyang/Study/158888/Project/data/evaluation/spatial_clusters_by_category.json",
+    "moran_json": "/Users/danielyang/Study/158888/Project/data/evaluation/spatial_moran.json",
+    "moran_by_category": "/Users/danielyang/Study/158888/Project/data/evaluation/spatial_moran_by_category.json",
+    "district_comparison_csv": "/Users/danielyang/Study/158888/Project/data/evaluation/district_comparison.csv",
+    "cluster_map_png": "/Users/danielyang/Study/158888/Project/data/evaluation/spatial_cluster_map.png"
+  }
+}

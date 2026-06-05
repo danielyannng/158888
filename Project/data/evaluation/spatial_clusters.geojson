@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49787036363637,
+          31.203651636363634
+        ]
+      },
+      "properties": {
+        "cluster_id": -1,
+        "is_noise": true,
+        "station_count": 11,
+        "stations": [
+          "虹桥火车站",
+          "虹口足球场",
+          "海伦路",
+          "世纪大道",
+          "东方体育中心",
+          "陆家嘴",
+          "上海南站",
+          "莘庄",
+          "龙阳路",
+          "四平路",
+          "浦东机场"
+        ],
+        "total_negative": 119,
+        "total_feedback": 165,
+        "neg_rate": 0.721,
+        "category_filter": "all",
+        "hull_coords": [
+          [
+            121.31895,
+            31.194022
+          ],
+          [
+            121.479154,
+            31.271392
+          ],
+          [
+            121.488697,
+            31.259303
+          ],
+          [
+            121.527213,
+            31.228682
+          ],
+          [
+            121.480304,
+            31.153366
+          ],
+          [
+            121.502129,
+            31.238259
+          ],
+          [
+            121.430041,
+            31.154579
+          ],
+          [
+            121.385373,
+            31.111152
+          ],
+          [
+            121.557634,
+            31.203575
+          ],
+          [
+            121.501488,
+            31.27488
+          ],
+          [
+            121.805591,
+            31.150958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42374,
+          31.242835499999998
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "is_noise": false,
+        "station_count": 2,
+        "stations": [
+          "镇坪路",
+          "曹杨路"
+        ],
+        "total_negative": 22,
+        "total_feedback": 30,
+        "neg_rate": 0.733,
+        "category_filter": "all",
+        "hull_coords": [
+          [
+            121.429779,
+            31.246369
+          ],
+          [
+            121.417701,
+            31.239302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46737827272727,
+          31.228951818181816
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "is_noise": false,
+        "station_count": 11,
+        "stations": [
+          "南京西路",
+          "陕西南路",
+          "汉中路",
+          "老西门",
+          "人民广场",
+          "常熟路",
+          "静安寺",
+          "南京东路",
+          "豫园",
+          "上海火车站",
+          "大世界"
+        ],
+        "total_negative": 116,
+        "total_feedback": 165,
+        "neg_rate": 0.703,
+        "category_filter": "all",
+        "hull_coords": [
+          [
+            121.459971,
+            31.229853
+          ],
+          [
+            121.458741,
+            31.215148
+          ],
+          [
+            121.458699,
+            31.241883
+          ],
+          [
+            121.483793,
+            31.219014
+          ],
+          [
+            121.475108,
+            31.232687
+          ],
+          [
+            121.449141,
+            31.213524
+          ],
+          [
+            121.446533,
+            31.223231
+          ],
+          [
+            121.484628,
+            31.238101
+          ],
+          [
+            121.487426,
+            31.228005
+          ],
+          [
+            121.457939,
+            31.249632
+          ],
+          [
+            121.479182,
+            31.227392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4232075,
+          31.2191795
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "is_noise": false,
+        "station_count": 2,
+        "stations": [
+          "中山公园",
+          "江苏路"
+        ],
+        "total_negative": 23,
+        "total_feedback": 30,
+        "neg_rate": 0.767,
+        "category_filter": "all",
+        "hull_coords": [
+          [
+            121.415773,
+            31.217948
+          ],
+          [
+            121.430642,
+            31.220411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4318985,
+          31.191115500000002
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "is_noise": false,
+        "station_count": 2,
+        "stations": [
+          "宜山路",
+          "徐家汇"
+        ],
+        "total_negative": 22,
+        "total_feedback": 30,
+        "neg_rate": 0.733,
+        "category_filter": "all",
+        "hull_coords": [
+          [
+            121.427194,
+            31.186717
+          ],
+          [
+            121.436603,
+            31.195514
+          ]
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "n_clusters": 4,
+    "n_noise": 11,
+    "eps_km": 1.5,
+    "min_samples": 2,
+    "category_filter": "all"
+  }
+}

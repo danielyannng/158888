@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+# Exclude Word documents (anywhere)
+*.docx
+# Exclude large GIS dBase attribute files (GitHub 100MB limit)
+*.dbf
+# Exclude Playwright MCP temp files
+.playwright-mcp/
+
+# Only track the Project/ directory
+/*
+!/Project/

@@ -1,0 +1,8 @@
+,Delay,Crowding,Cleanliness,Safety,Noise,Accessibility,Other
+Delay,3,0,0,0,0,0,1
+Crowding,0,3,0,0,0,0,1
+Cleanliness,0,0,4,0,0,0,0
+Safety,0,0,0,4,0,0,0
+Noise,0,0,0,0,3,0,1
+Accessibility,0,0,0,0,0,4,0
+Other,0,0,0,0,0,0,3
