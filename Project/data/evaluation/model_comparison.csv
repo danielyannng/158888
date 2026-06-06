@@ -1,0 +1,4 @@
+model,ood_cat_accuracy,ood_cat_macro_f1,ood_senti_accuracy,ood_senti_macro_f1,chnsenti_accuracy,chnsenti_macro_f1
+rule_baseline,0.5833,0.5883,0.5417,0.441,0.9108,0.9108
+tfidf_lr,0.5833,0.5883,0.5417,0.441,0.9108,0.9108
+tfidf_svc,0.5917,0.5929,0.55,0.4513,0.9342,0.9342

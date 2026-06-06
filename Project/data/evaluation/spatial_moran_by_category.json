@@ -1,0 +1,824 @@
+{
+  "Delay": {
+    "moran_i": -0.197,
+    "expected_i": -0.0769,
+    "z_score": -1.2421,
+    "p_value": 0.2142,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Delay",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "镇坪路",
+        "station_en": "Zhenping Rd",
+        "lat": 31.246369,
+        "lon": 121.429779,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": 0.0019
+      },
+      {
+        "station": "虹口足球场",
+        "station_en": "Hongkou Stadium",
+        "lat": 31.271392,
+        "lon": 121.479154,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": -0.0045
+      },
+      {
+        "station": "人民广场",
+        "station_en": "People's Square",
+        "lat": 31.232687,
+        "lon": 121.475108,
+        "neg_rate": 0.667,
+        "lisa": "NS",
+        "lisa_score": -0.0002
+      },
+      {
+        "station": "常熟路",
+        "station_en": "Changshu Rd",
+        "lat": 31.213524,
+        "lon": 121.449141,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": 0.006
+      },
+      {
+        "station": "宜山路",
+        "station_en": "Yishan Rd",
+        "lat": 31.186717,
+        "lon": 121.427194,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0196
+      },
+      {
+        "station": "豫园",
+        "station_en": "Yu Garden",
+        "lat": 31.228005,
+        "lon": 121.487426,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": -0.0112
+      },
+      {
+        "station": "徐家汇",
+        "station_en": "Xujiahui",
+        "lat": 31.195514,
+        "lon": 121.436603,
+        "neg_rate": 0.25,
+        "lisa": "NS",
+        "lisa_score": -0.0382
+      },
+      {
+        "station": "世纪大道",
+        "station_en": "Century Avenue",
+        "lat": 31.228682,
+        "lon": 121.527213,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0125
+      },
+      {
+        "station": "上海火车站",
+        "station_en": "Shanghai Railway Stn",
+        "lat": 31.249632,
+        "lon": 121.457939,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0054
+      },
+      {
+        "station": "大世界",
+        "station_en": "Dashijie",
+        "lat": 31.227392,
+        "lon": 121.479182,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": -0.0018
+      },
+      {
+        "station": "四平路",
+        "station_en": "Siping Rd",
+        "lat": 31.27488,
+        "lon": 121.501488,
+        "neg_rate": 0.4,
+        "lisa": "NS",
+        "lisa_score": -0.0204
+      },
+      {
+        "station": "中山公园",
+        "station_en": "Zhongshan Park",
+        "lat": 31.217948,
+        "lon": 121.415773,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0068
+      },
+      {
+        "station": "浦东机场",
+        "station_en": "Pudong Intl Airport",
+        "lat": 31.150958,
+        "lon": 121.805591,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": 0.0015
+      },
+      {
+        "station": "老西门",
+        "station_en": "Laoximen",
+        "lat": 31.219014,
+        "lon": 121.483793,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0186
+      }
+    ]
+  },
+  "Crowding": {
+    "moran_i": -0.2309,
+    "expected_i": -0.0769,
+    "z_score": -0.7403,
+    "p_value": 0.4591,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Crowding",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "陕西南路",
+        "station_en": "Shaanxi S. Rd",
+        "lat": 31.215148,
+        "lon": 121.458741,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0078
+      },
+      {
+        "station": "江苏路",
+        "station_en": "Jiangsu Rd",
+        "lat": 31.220411,
+        "lon": 121.430642,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0027
+      },
+      {
+        "station": "东方体育中心",
+        "station_en": "Oriental Sports Ctr",
+        "lat": 31.153366,
+        "lon": 121.480304,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": -0.005
+      },
+      {
+        "station": "陆家嘴",
+        "station_en": "Lujiazui",
+        "lat": 31.238259,
+        "lon": 121.502129,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0006
+      },
+      {
+        "station": "汉中路",
+        "station_en": "Hanzhong Rd",
+        "lat": 31.241883,
+        "lon": 121.458699,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": 0.0032
+      },
+      {
+        "station": "静安寺",
+        "station_en": "Jing'an Temple",
+        "lat": 31.223231,
+        "lon": 121.446533,
+        "neg_rate": 0.4,
+        "lisa": "NS",
+        "lisa_score": -0.0312
+      },
+      {
+        "station": "上海南站",
+        "station_en": "South Shanghai Railway",
+        "lat": 31.154579,
+        "lon": 121.430041,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0047
+      },
+      {
+        "station": "海伦路",
+        "station_en": "Hailun Rd",
+        "lat": 31.259303,
+        "lon": 121.488697,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0078
+      },
+      {
+        "station": "曹杨路",
+        "station_en": "Caoyang Rd",
+        "lat": 31.239302,
+        "lon": 121.417701,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0043
+      },
+      {
+        "station": "南京西路",
+        "station_en": "Nanjing W. Rd",
+        "lat": 31.229853,
+        "lon": 121.459971,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0078
+      },
+      {
+        "station": "南京东路",
+        "station_en": "Nanjing Rd (E)",
+        "lat": 31.238101,
+        "lon": 121.484628,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": -0.0128
+      },
+      {
+        "station": "龙阳路",
+        "station_en": "Longyang Road",
+        "lat": 31.203575,
+        "lon": 121.557634,
+        "neg_rate": 0.667,
+        "lisa": "NS",
+        "lisa_score": 0.0004
+      },
+      {
+        "station": "虹桥火车站",
+        "station_en": "Hongqiao Railway Stn",
+        "lat": 31.194022,
+        "lon": 121.31895,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": -0.0109
+      },
+      {
+        "station": "莘庄",
+        "station_en": "Xinzhuang",
+        "lat": 31.111152,
+        "lon": 121.385373,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": -0.0008
+      }
+    ]
+  },
+  "Cleanliness": {
+    "moran_i": 0.0794,
+    "expected_i": -0.0769,
+    "z_score": 0.3431,
+    "p_value": 0.7315,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Cleanliness",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "中山公园",
+        "station_en": "Zhongshan Park",
+        "lat": 31.217948,
+        "lon": 121.415773,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0045
+      },
+      {
+        "station": "世纪大道",
+        "station_en": "Century Avenue",
+        "lat": 31.228682,
+        "lon": 121.527213,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0042
+      },
+      {
+        "station": "徐家汇",
+        "station_en": "Xujiahui",
+        "lat": 31.195514,
+        "lon": 121.436603,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0054
+      },
+      {
+        "station": "豫园",
+        "station_en": "Yu Garden",
+        "lat": 31.228005,
+        "lon": 121.487426,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": -0.0026
+      },
+      {
+        "station": "四平路",
+        "station_en": "Siping Rd",
+        "lat": 31.27488,
+        "lon": 121.501488,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.009
+      },
+      {
+        "station": "人民广场",
+        "station_en": "People's Square",
+        "lat": 31.232687,
+        "lon": 121.475108,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.009
+      },
+      {
+        "station": "老西门",
+        "station_en": "Laoximen",
+        "lat": 31.219014,
+        "lon": 121.483793,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.009
+      },
+      {
+        "station": "浦东机场",
+        "station_en": "Pudong Intl Airport",
+        "lat": 31.150958,
+        "lon": 121.805591,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0045
+      },
+      {
+        "station": "常熟路",
+        "station_en": "Changshu Rd",
+        "lat": 31.213524,
+        "lon": 121.449141,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0054
+      },
+      {
+        "station": "虹口足球场",
+        "station_en": "Hongkou Stadium",
+        "lat": 31.271392,
+        "lon": 121.479154,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0097
+      },
+      {
+        "station": "宜山路",
+        "station_en": "Yishan Rd",
+        "lat": 31.186717,
+        "lon": 121.427194,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0093
+      },
+      {
+        "station": "镇坪路",
+        "station_en": "Zhenping Rd",
+        "lat": 31.246369,
+        "lon": 121.429779,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0006
+      },
+      {
+        "station": "大世界",
+        "station_en": "Dashijie",
+        "lat": 31.227392,
+        "lon": 121.479182,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0055
+      },
+      {
+        "station": "上海火车站",
+        "station_en": "Shanghai Railway Stn",
+        "lat": 31.249632,
+        "lon": 121.457939,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": 0.0128
+      }
+    ]
+  },
+  "Safety": {
+    "moran_i": -0.2249,
+    "expected_i": -0.0769,
+    "z_score": -0.3569,
+    "p_value": 0.7212,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Safety",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "南京西路",
+        "station_en": "Nanjing W. Rd",
+        "lat": 31.229853,
+        "lon": 121.459971,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": -0.0039
+      },
+      {
+        "station": "南京东路",
+        "station_en": "Nanjing Rd (E)",
+        "lat": 31.238101,
+        "lon": 121.484628,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0034
+      },
+      {
+        "station": "东方体育中心",
+        "station_en": "Oriental Sports Ctr",
+        "lat": 31.153366,
+        "lon": 121.480304,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0062
+      },
+      {
+        "station": "海伦路",
+        "station_en": "Hailun Rd",
+        "lat": 31.259303,
+        "lon": 121.488697,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0109
+      },
+      {
+        "station": "静安寺",
+        "station_en": "Jing'an Temple",
+        "lat": 31.223231,
+        "lon": 121.446533,
+        "neg_rate": 0.6,
+        "lisa": "NS",
+        "lisa_score": -0.0039
+      },
+      {
+        "station": "莘庄",
+        "station_en": "Xinzhuang",
+        "lat": 31.111152,
+        "lon": 121.385373,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": -0.0146
+      },
+      {
+        "station": "汉中路",
+        "station_en": "Hanzhong Rd",
+        "lat": 31.241883,
+        "lon": 121.458699,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0062
+      },
+      {
+        "station": "虹桥火车站",
+        "station_en": "Hongqiao Railway Stn",
+        "lat": 31.194022,
+        "lon": 121.31895,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0034
+      },
+      {
+        "station": "陕西南路",
+        "station_en": "Shaanxi S. Rd",
+        "lat": 31.215148,
+        "lon": 121.458741,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0062
+      },
+      {
+        "station": "江苏路",
+        "station_en": "Jiangsu Rd",
+        "lat": 31.220411,
+        "lon": 121.430642,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0062
+      },
+      {
+        "station": "上海南站",
+        "station_en": "South Shanghai Railway",
+        "lat": 31.154579,
+        "lon": 121.430041,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0034
+      },
+      {
+        "station": "陆家嘴",
+        "station_en": "Lujiazui",
+        "lat": 31.238259,
+        "lon": 121.502129,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": -0.002
+      },
+      {
+        "station": "龙阳路",
+        "station_en": "Longyang Road",
+        "lat": 31.203575,
+        "lon": 121.557634,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.004
+      },
+      {
+        "station": "曹杨路",
+        "station_en": "Caoyang Rd",
+        "lat": 31.239302,
+        "lon": 121.417701,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0062
+      }
+    ]
+  },
+  "Noise": {
+    "moran_i": -0.1831,
+    "expected_i": -0.0769,
+    "z_score": -0.5184,
+    "p_value": 0.6042,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Noise",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "世纪大道",
+        "station_en": "Century Avenue",
+        "lat": 31.228682,
+        "lon": 121.527213,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.024
+      },
+      {
+        "station": "宜山路",
+        "station_en": "Yishan Rd",
+        "lat": 31.186717,
+        "lon": 121.427194,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0076
+      },
+      {
+        "station": "徐家汇",
+        "station_en": "Xujiahui",
+        "lat": 31.195514,
+        "lon": 121.436603,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0078
+      },
+      {
+        "station": "镇坪路",
+        "station_en": "Zhenping Rd",
+        "lat": 31.246369,
+        "lon": 121.429779,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0021
+      },
+      {
+        "station": "中山公园",
+        "station_en": "Zhongshan Park",
+        "lat": 31.217948,
+        "lon": 121.415773,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0133
+      },
+      {
+        "station": "老西门",
+        "station_en": "Laoximen",
+        "lat": 31.219014,
+        "lon": 121.483793,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": 0.0078
+      },
+      {
+        "station": "常熟路",
+        "station_en": "Changshu Rd",
+        "lat": 31.213524,
+        "lon": 121.449141,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0078
+      },
+      {
+        "station": "豫园",
+        "station_en": "Yu Garden",
+        "lat": 31.228005,
+        "lon": 121.487426,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0057
+      },
+      {
+        "station": "人民广场",
+        "station_en": "People's Square",
+        "lat": 31.232687,
+        "lon": 121.475108,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0125
+      },
+      {
+        "station": "四平路",
+        "station_en": "Siping Rd",
+        "lat": 31.27488,
+        "lon": 121.501488,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": -0.029
+      },
+      {
+        "station": "大世界",
+        "station_en": "Dashijie",
+        "lat": 31.227392,
+        "lon": 121.479182,
+        "neg_rate": 0.333,
+        "lisa": "NS",
+        "lisa_score": -0.014
+      },
+      {
+        "station": "浦东机场",
+        "station_en": "Pudong Intl Airport",
+        "lat": 31.150958,
+        "lon": 121.805591,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.024
+      },
+      {
+        "station": "虹口足球场",
+        "station_en": "Hongkou Stadium",
+        "lat": 31.271392,
+        "lon": 121.479154,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0182
+      },
+      {
+        "station": "上海火车站",
+        "station_en": "Shanghai Railway Stn",
+        "lat": 31.249632,
+        "lon": 121.457939,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0067
+      }
+    ]
+  },
+  "Accessibility": {
+    "moran_i": -0.049,
+    "expected_i": -0.0769,
+    "z_score": 0.1335,
+    "p_value": 0.8938,
+    "interpretation": "no significant spatial autocorrelation detected",
+    "category_filter": "Accessibility",
+    "k_neighbours": 5,
+    "stations": [
+      {
+        "station": "虹桥火车站",
+        "station_en": "Hongqiao Railway Stn",
+        "lat": 31.194022,
+        "lon": 121.31895,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0158
+      },
+      {
+        "station": "汉中路",
+        "station_en": "Hanzhong Rd",
+        "lat": 31.241883,
+        "lon": 121.458699,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0031
+      },
+      {
+        "station": "江苏路",
+        "station_en": "Jiangsu Rd",
+        "lat": 31.220411,
+        "lon": 121.430642,
+        "neg_rate": 0.4,
+        "lisa": "NS",
+        "lisa_score": 0.0074
+      },
+      {
+        "station": "陕西南路",
+        "station_en": "Shaanxi S. Rd",
+        "lat": 31.215148,
+        "lon": 121.458741,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0125
+      },
+      {
+        "station": "海伦路",
+        "station_en": "Hailun Rd",
+        "lat": 31.259303,
+        "lon": 121.488697,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.007
+      },
+      {
+        "station": "静安寺",
+        "station_en": "Jing'an Temple",
+        "lat": 31.223231,
+        "lon": 121.446533,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": 0.0036
+      },
+      {
+        "station": "莘庄",
+        "station_en": "Xinzhuang",
+        "lat": 31.111152,
+        "lon": 121.385373,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0011
+      },
+      {
+        "station": "南京东路",
+        "station_en": "Nanjing Rd (E)",
+        "lat": 31.238101,
+        "lon": 121.484628,
+        "neg_rate": 0.8,
+        "lisa": "NS",
+        "lisa_score": -0.0045
+      },
+      {
+        "station": "龙阳路",
+        "station_en": "Longyang Road",
+        "lat": 31.203575,
+        "lon": 121.557634,
+        "neg_rate": 0.667,
+        "lisa": "NS",
+        "lisa_score": -0.0124
+      },
+      {
+        "station": "上海南站",
+        "station_en": "South Shanghai Railway",
+        "lat": 31.154579,
+        "lon": 121.430041,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0076
+      },
+      {
+        "station": "陆家嘴",
+        "station_en": "Lujiazui",
+        "lat": 31.238259,
+        "lon": 121.502129,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": 0.0136
+      },
+      {
+        "station": "南京西路",
+        "station_en": "Nanjing W. Rd",
+        "lat": 31.229853,
+        "lon": 121.459971,
+        "neg_rate": 1.0,
+        "lisa": "NS",
+        "lisa_score": -0.0125
+      },
+      {
+        "station": "东方体育中心",
+        "station_en": "Oriental Sports Ctr",
+        "lat": 31.153366,
+        "lon": 121.480304,
+        "neg_rate": 0.75,
+        "lisa": "NS",
+        "lisa_score": -0.0003
+      },
+      {
+        "station": "曹杨路",
+        "station_en": "Caoyang Rd",
+        "lat": 31.239302,
+        "lon": 121.417701,
+        "neg_rate": 0.5,
+        "lisa": "NS",
+        "lisa_score": 0.0124
+      }
+    ]
+  }
+}

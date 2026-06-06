@@ -1,0 +1,8 @@
+{
+  "assembled_path": "/Users/danielyang/Study/158888/Project/backend/models/nlp_model.joblib",
+  "sentiment_accuracy": 0.8085,
+  "sentiment_macro_f1": 0.5653,
+  "category_accuracy": 1.0,
+  "category_macro_f1": 1.0,
+  "note": "Separate heads trained independently; assembled for ml_model.py compatibility."
+}

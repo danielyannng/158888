@@ -1,0 +1,28 @@
+text,expected_category,predicted_category,expected_sentiment,predicted_sentiment,station,confidence,matched_keywords
+人民广场站今天晚点太严重了,Delay,Delay,negative,negative,人民广场,0.98,"严重, 晚点"
+徐家汇站等了很久还是没有车,Delay,Delay,negative,negative,徐家汇,0.98,"没有, 等了很久"
+Century Avenue had a serious delay this morning,Delay,Delay,negative,neutral,世纪大道,0.865,delay
+陆家嘴站今天很准时,Delay,Other,positive,positive,陆家嘴,0.765,准时
+静安寺站早高峰太挤了,Crowding,Crowding,negative,negative,静安寺,0.965,太挤
+虹桥火车站人多到挤不上车,Crowding,Crowding,negative,neutral,虹桥火车站,0.88,"人多, 挤不上"
+Lujiazui is packed during rush hour,Crowding,Crowding,negative,neutral,陆家嘴,0.865,packed
+中山公园站今天人流顺畅,Crowding,Other,positive,positive,中山公园,0.765,顺畅
+南京东路站地面有垃圾，卫生不好,Cleanliness,Cleanliness,negative,negative,南京东路,0.98,"不好, 卫生, 垃圾"
+海伦路站有异味，环境太差,Cleanliness,Cleanliness,negative,negative,海伦路,0.98,"太差, 异味"
+Hailun Road feels dirty today,Cleanliness,Cleanliness,negative,negative,,0.765,dirty
+陆家嘴站很干净,Cleanliness,Cleanliness,positive,positive,陆家嘴,0.965,干净
+豫园站扶梯口推搡很危险,Safety,Safety,negative,negative,豫园,0.98,"危险, 推搡"
+曹杨路站人流组织不好，存在安全问题,Safety,Safety,negative,negative,曹杨路,0.98,"不好, 安全, 问题"
+People's Square feels unsafe at the platform,Safety,Safety,negative,negative,人民广场,0.98,"safe, unsafe"
+世纪大道站秩序很好，很安全,Safety,Safety,positive,positive,世纪大道,0.98,"安全, 很好"
+四平路站广播太响，噪音很大,Noise,Noise,negative,neutral,四平路,0.88,"噪音, 广播太响"
+龙阳路站施工声音太吵,Noise,Noise,negative,negative,龙阳路,0.98,"吵, 太吵"
+Longyang Road is too noisy today,Noise,Noise,negative,neutral,龙阳路,0.865,noisy
+徐家汇站今天很安静,Noise,Other,positive,neutral,徐家汇,0.65,
+上海火车站电梯坏了，很不方便,Accessibility,Accessibility,negative,negative,上海火车站,0.98,"不方便, 坏了, 电梯"
+南京西路站无障碍通道不好找,Accessibility,Accessibility,negative,negative,南京西路,0.98,"不好, 无障碍"
+Pudong Intl Airport elevator is broken and not accessible,Accessibility,Accessibility,negative,negative,浦东机场,0.98,"accessible, broken, elevator"
+陆家嘴站电梯方便，无障碍体验很好,Accessibility,Accessibility,positive,positive,陆家嘴,0.98,"很好, 方便, 无障碍, 电梯"
+这个地方今天体验一般,Other,Other,neutral,neutral,,0.45,
+乘客反馈已经收到,Other,Other,neutral,neutral,,0.45,
+No clear station issue in this text,Other,Other,neutral,neutral,,0.45,

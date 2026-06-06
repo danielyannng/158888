@@ -1,0 +1,109 @@
+{
+  "dataset": "hand-labelled synthetic public transport feedback cases",
+  "case_count": 27,
+  "category": {
+    "accuracy": 0.8889,
+    "macro_f1": 0.8912,
+    "classification_report": {
+      "Delay": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 4.0
+      },
+      "Crowding": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 4.0
+      },
+      "Cleanliness": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+      },
+      "Safety": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+      },
+      "Noise": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 4.0
+      },
+      "Accessibility": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+      },
+      "Other": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 3.0
+      },
+      "accuracy": 0.8888888888888888,
+      "macro avg": {
+        "precision": 0.9285714285714286,
+        "recall": 0.8928571428571429,
+        "f1-score": 0.891156462585034,
+        "support": 27.0
+      },
+      "weighted avg": {
+        "precision": 0.9444444444444444,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.8994708994708994,
+        "support": 27.0
+      }
+    }
+  },
+  "sentiment": {
+    "accuracy": 0.7778,
+    "macro_f1": 0.7493,
+    "classification_report": {
+      "positive": {
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.9090909090909091,
+        "support": 6.0
+      },
+      "neutral": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1-score": 0.5,
+        "support": 3.0
+      },
+      "negative": {
+        "precision": 1.0,
+        "recall": 0.7222222222222222,
+        "f1-score": 0.8387096774193549,
+        "support": 18.0
+      },
+      "accuracy": 0.7777777777777778,
+      "macro avg": {
+        "precision": 0.7777777777777777,
+        "recall": 0.851851851851852,
+        "f1-score": 0.7492668621700881,
+        "support": 27.0
+      },
+      "weighted avg": {
+        "precision": 0.9259259259259259,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.8167155425219941,
+        "support": 27.0
+      }
+    }
+  },
+  "outputs": {
+    "predictions_csv": "/Users/danielyang/Study/158888/Project/data/evaluation/baseline_predictions.csv",
+    "category_confusion_csv": "/Users/danielyang/Study/158888/Project/data/evaluation/category_confusion_matrix.csv",
+    "sentiment_confusion_csv": "/Users/danielyang/Study/158888/Project/data/evaluation/sentiment_confusion_matrix.csv",
+    "category_confusion_png": "/Users/danielyang/Study/158888/Project/data/evaluation/category_confusion_matrix.png",
+    "sentiment_confusion_png": "/Users/danielyang/Study/158888/Project/data/evaluation/sentiment_confusion_matrix.png"
+  }
+}
